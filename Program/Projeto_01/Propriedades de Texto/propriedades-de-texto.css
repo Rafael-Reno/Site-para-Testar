@@ -1,0 +1,35 @@
+*{
+
+}
+div{
+	width: 400px;
+	margin: 40px auto;
+	background: #eee;
+	padding: 10px;
+}
+p{
+	color: #000;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 1em;
+	line-height: 1.3em;
+	font-family: "helvetica neue",helvetica, arial;
+	text-align: center;
+	text-transform: uppercase;
+	text-indent: 3.5em;
+	text-shadow: 1px 1px #3f3;
+}
+
+a{
+	text-decoration: none;
+}
+
+ul{
+	list-style-type: circle;
+	list-style-position: inside;
+	list-style-image: url('pontos.png');
+}
+
+ul.menu{
+	list-style: none;
+}

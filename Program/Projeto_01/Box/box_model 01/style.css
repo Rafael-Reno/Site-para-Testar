@@ -1,0 +1,28 @@
+.container{
+	width: 500px;
+	height: 500px;
+	margin: 0 auto;
+	background: #ddd;
+}
+
+.box-1{
+	width: 50%;
+	height: 20%;
+	padding: 10px;
+	border: 3px #000;
+	border-style: outset;
+	margin: auto;
+	margin-top: 10px;
+	background: #aaa;
+}
+
+.box-2{
+	width: 50%;
+	height: 20%;
+	padding: 10px;
+	border: 3px #000;
+	border-style: outset;
+	margin: auto;
+	margin-top: 10px;
+	background: #aaa;
+}

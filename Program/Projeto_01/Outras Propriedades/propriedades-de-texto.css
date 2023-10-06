@@ -1,0 +1,21 @@
+body{
+	background-color: #000;
+	background-image: url("carro.jpg");
+	height: 5000px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+
+}
+
+div{
+	width: 200px;
+	height: 400px;
+	margin: 0 auto;
+	background-color: #ccc;
+	background-image: url("carro.jpg");
+	background-size: cover;
+	background-position: center;
+	box-shadow: inset -10px -10px 10px #333, 10px 10px 10px #333;
+}
